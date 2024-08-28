@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "flv.js": "^1.6.2",
+    "install": "^0.13.0",
+    "jsencrypt": "^3.3.2",
+    "mui-player": "^1.8.1",
+    "npm": "^10.4.0",
+    "vue-lazyload": "^3.0.0"
+  }
+}

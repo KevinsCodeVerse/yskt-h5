@@ -1,0 +1,24 @@
+{
+    "id": "f-signature",
+    "displayName": "canvas手写板，横屏签名",
+    "version": "1.0.2",
+    "description": "超漂亮的横屏签名，支持多平台",
+    "keywords": [
+        "canvas",
+        "签名",
+        "autograph"
+    ],
+    "dcloudext": {
+        "contact": {
+            "qq": ""
+        },
+        "declaration": {
+            "ads": "无",
+            "data": "无",
+            "permissions": "无"
+        },
+        "npmurl": "",
+        "type": "component-vue"
+    },
+    "repository": ""
+}
